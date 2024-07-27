@@ -1,0 +1,17 @@
+[project]
+name = "flight_radar_pipeline"
+version = "0.0.1"
+authors = [
+  { name="Irina Sterligova", email="irinagruzde8a@gmail.com" },
+]
+description = "A spark pipeline for Flight Radar ETL"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://gitlab.com/exalt-it-dojo/candidats/irina-sterligova-flight-radar-754c1c6a-f35b-4bf4-a6af-333f982520b3"
